@@ -1,0 +1,39 @@
+    body {
+      color: #000;
+    }
+    .stats-box {
+      font-size: 50px;
+      margin-top: 50px;
+    }
+
+    .row-fluid {
+      padding-left: 30px;
+      font-family: 'Arimo', sans-serif;
+    }
+
+    .section-title {
+      background-color: #000;
+      font-family: 'Titillium Web', sans-serif;
+      text-transform: uppercase;
+      color: #F9F9F9;
+      font-weight: 200;
+      padding: 15px 0px 5px 30px;
+    }
+
+    .stats{
+      font-size: 75px;
+      font-weight: 700;
+    }
+
+    .legend {
+      margin-top: 20px;
+      font-weight: 700;
+      font-size: 20px;
+      text-transform: lowercase;
+    }
+
+    .line {
+      border-bottom: 2px solid #000;
+      width: 890px;
+      margin-left: 30px;
+    }
